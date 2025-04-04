@@ -10,6 +10,10 @@ Data scientist and full-stack developer passionate about building data-driven ap
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### API Frameworks
+![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
+![Sanic](https://img.shields.io/badge/Sanic-00A1F1?style=flat-square&logo=python&logoColor=white)
+
 ### Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,9 +23,11 @@ Data scientist and full-stack developer passionate about building data-driven ap
 ### Data Science & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
 
 ### Other Libraries
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4AB897?style=for-the-badge)
