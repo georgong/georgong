@@ -11,14 +11,14 @@ Data scientist and full-stack developer passionate about building data-driven ap
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### API Frameworks
-![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
-![Sanic](https://img.shields.io/badge/Sanic-00A1F1?style=flat-square&logo=python&logoColor=white)
 
 ### Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
+![Sanic](https://img.shields.io/badge/Sanic-00A1F1?style=flat-square&logo=python&logoColor=white)
 
 ### Data Science & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
