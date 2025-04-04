@@ -30,17 +30,7 @@ Data scientist and full-stack developer passionate about building data-driven ap
 
 ## 📊 GitHub Stats
 
-<!-- GitHub 统计卡片 -->
-![Georgong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgong&show_icons=true&theme=radical&hide=issues)
-
-<!-- 常用语言统计卡片 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgong&layout=compact&theme=radical)
-
-<!-- GitHub 连续贡献记录（连击） -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=georgong&theme=radical)](https://git.io/streak-stats)
-
-<!-- GitHub 奖杯展示 -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=georgong&theme=radical&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to Reach Me
 
