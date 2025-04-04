@@ -19,6 +19,7 @@ Data scientist and full-stack developer passionate about building data-driven ap
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Sanic](https://img.shields.io/badge/Sanic-00B3E6?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 
 ### Data Science & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
