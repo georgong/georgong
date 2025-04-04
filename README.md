@@ -30,6 +30,8 @@ Data scientist and full-stack developer passionate about building data-driven ap
 
 ## 📊 GitHub Stats
 
+[![3D Languages](https://github-readme-3d-stats.vercel.app/api?username=georgong&langs=python,java,rust,javascript&theme=radical)](https://github.com/georgong)
+
 <a href="https://github.com/georgong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgong&layout=compact&theme=radical&hide=Jupyter%20Notebook" />
 </a>
