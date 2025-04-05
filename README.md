@@ -7,6 +7,7 @@ Data scientist and full-stack developer passionate about building data-driven ap
     <img src="https://img.shields.io/badge/🌐 Visit My Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
 ## 🛠️ Tech Stack
 
 ### Languages
