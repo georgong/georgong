@@ -2,6 +2,11 @@
 
 Data scientist and full-stack developer passionate about building data-driven applications and visualizations. I love working across the entire stack from Machine Learning to beautiful front-end interfaces.
 
+<p align="center">
+  <a href="https://georgong.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 ## 🛠️ Tech Stack
 
 ### Languages
