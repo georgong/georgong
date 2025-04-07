@@ -1,7 +1,8 @@
 # Hello, I'm George (Zhenghao Gong) 👋 
 
 Current UCSD undergrade, Future Data scientist and full-stack developer
-passionate about building data-driven applications and visualizations. I love working across the entire stack from Machine Learning to beautiful front-end interfaces.
+
+Passionate about building data-driven applications and visualizations. I love working across the entire stack from Machine Learning to beautiful front-end interfaces.
 
 <p align="center">
   <a href="https://georgong.github.io" target="_blank">
