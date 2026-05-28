@@ -1,6 +1,6 @@
 # Hello, I'm George (Zhenghao Gong) 👋 
 
-Current UCSD undergrad Student, Future data scientist and full-stack developer
+UCSD grad Student, Machine Learning Engineer and full-stack developer
 
 Passionate about building data-driven applications and visualizations. I love working across the entire stack from Machine Learning to beautiful front-end interfaces.
 
